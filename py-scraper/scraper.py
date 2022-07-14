@@ -18,7 +18,6 @@ store_q = queue.Queue()
 # Database utils
 def get_db():
     f = path.realpath(path.dirname(path.realpath(__file__)) +  '/../articles.db')
-    print('Writing to', f)
     return sqlite3.connect(f)
 
 # Database init
