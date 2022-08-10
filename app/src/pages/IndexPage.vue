@@ -44,7 +44,7 @@
     </q-table>
   </div>
   <div class="text-center q-pa-xl container footer">
-    <p>Built by <a href="https://prealfa.com">Adrià</a> in 🇪🇸 with 🥘 and ❤</p>
+    <p>Built by <a href="https://prealfa.com">Adrià</a> in <a href="https://en.wikipedia.org/wiki/Valencia">València</a> with 🥘 and ❤️</p>
     <p><a href="https://github.com/adlpz/classics.rtf.cc/">Check out the source code</a></p>
     <p>Download this database in <a href="https://github.com/adlpz/classics.rtf.cc/raw/master/articles.json">JSON</a> or <a href="https://github.com/adlpz/classics.rtf.cc/raw/master/articles.db">Sqlite</a></p>
     <p>If you use this code or dataset <a href="https://twitter.com/adlpz">say hi on Twitter</a>.</p>
